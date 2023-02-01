@@ -1,5 +1,7 @@
 
 # <p align="center">Bot Discord : HYN</p>
+
+Date : 22.06.2022
   
 Créer un Bot discord capable d’aider une personne de la classe à trouver des ressources d’aide.
         
