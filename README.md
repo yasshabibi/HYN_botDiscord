@@ -14,4 +14,9 @@ Créer un Bot discord capable d’aider une personne de la classe à trouver des
 ## 🛠️ Tech utilisées
 - Python
         
+## 📚 Librairies utilisée
+- discord.py
+- requests
+- json
+- os
         
